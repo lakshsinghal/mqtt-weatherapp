@@ -1,5 +1,5 @@
 # MQTT WeatherApp
-Current Weather Application Using MQTT Protocol, we developed a Java application which fetches the weather details of a city in real-time and displays it on a web interface.
+Current Weather Application Using MQTT Protocol, we developed a Java application which fetches the weather details of a city in real-time, saves it in a database and displays it on a web interface.
 
 ## 4.1 MQTT Protocol
 MQTT is a client-server publish and subscribe messaging transport protocol. The protocol is used mostly in the Internet of Things context and works over TCP/IP protocol. It basically works on the Publish-Subscribe paradigm and also has a low power requirement. It is easy to implement in small devices and has low latency. The connected devices in the MQTT protocol are known as “clients,” which communicate with a server referred to as the “broker.” The broker handles the task of data transmission between clients. It operates in real-time and also maintains a QoS (Quality of Service) level while publishing.
