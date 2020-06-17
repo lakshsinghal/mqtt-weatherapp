@@ -4,13 +4,13 @@ Current Weather Application Using MQTT Protocol, we developed a Java application
 Put the html files in 'htdocs' folder.
 
 ### Requirements:
-  Apache Server
-  MySQL Database
-  Mosquitto Server for MQTT Protocol
-  PHP
-  JDK 8+
-  OpenWeather API key
-  OpenWeather Java API integration (https://github.com/iamashks/OWM-JAPIs)
+*  Apache Server
+*  MySQL Database
+*  Mosquitto Server for MQTT Protocol
+*  PHP
+*  JDK 8+
+*  OpenWeather API key
+*  OpenWeather Java API integration (https://github.com/iamashks/OWM-JAPIs)
 
 ## 4.1 MQTT Protocol
 MQTT is a client-server publish and subscribe messaging transport protocol. The protocol is used mostly in the Internet of Things context and works over TCP/IP protocol. It basically works on the Publish-Subscribe paradigm and also has a low power requirement. It is easy to implement in small devices and has low latency. The connected devices in the MQTT protocol are known as “clients,” which communicate with a server referred to as the “broker.” The broker handles the task of data transmission between clients. It operates in real-time and also maintains a QoS (Quality of Service) level while publishing.
