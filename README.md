@@ -9,3 +9,4 @@ Using Maven project management tools available for Java, we used the Paho librar
 
 ## 4.3 Use of Weather API
 OpenWeather API is used for fetching of weather data of different cities and adding it to the database. Java Library for OpenWeather API is OWM Java API. The OWM Java API lets you develop weather-aware applications for Android, Kotlin, and Java platforms in minimum time. It is an easy-to-use, well- documented wrapper library for OpenWeatherMap.org’s Weather APIs. You can easily retrieve and use weather data in your applications using this library.
+
